@@ -1,0 +1,11 @@
+{
+    "name": "saml-idp",
+    "description": "A nodejs-based templatable SAML IdP",
+    "keywords": ["identity", "saml"],
+    "website": "https://github.com/WimTibackx/saml-idp",
+    "repository": "https://github.com/WimTibackx/saml-idp",
+    "success_url": "/",
+    "env": {
+      "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nodejs"
+    }
+  }
